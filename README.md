@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernanda Wawang Azraqi</h1>
 <h3 align="center"> Just an Ordinary People</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FearZen&label=Profile%20views&color=129e00&style=plastic" alt="FearZen" /> </p>
-<img align="right" alt="Coding" width="350" height="400" src="Ferza.png">
-
 - 👨‍💻 You can also check out my portfolio at [https://fearzen.github.io/porto-web.github.io/](https://fearzen.github.io/porto-web.github.io/)
 
 - 📫 How to reach me **fernandaazra@gmail.com**
