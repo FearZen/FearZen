@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fernandaazra@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact **I am an Ultraman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
