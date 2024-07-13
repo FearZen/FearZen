@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernanda Wawang Azraqi</h1>
 <h3 align="center"> Just an Ordinary People</h3>
 
-- 👨‍💻 You can also check out my portfolio at [https://fearzen.github.io/porto-web.github.io/](https://fearzen.github.io/porto-web.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://fearzen.github.io/porto-web.github.io/](https://fearzen.github.io/porto-web.github.io/)//[https://fearzen.github.io/resume/](https://fearzen.github.io/resume/)
 
 - 📫 How to reach me **fernandaazra@gmail.com**
 
