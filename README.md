@@ -12,7 +12,6 @@
 
 <a href="https://www.linkedin.com/in/fernanda-wawang-azraqi-383980225/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="FearZen" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ferzaa._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ferzaa._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
 
 </p>
 
