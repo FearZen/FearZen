@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernanda Wawang Azraqi</h1>
 <h3 align="center">Just an Ordinary Person with Extraordinary Dreams</h3>
 
-- 👨‍💻 You can also check out my portfolio at [My Portfolio](https://fearzen.github.io/porto-web.github.io/) // [My Resume](https://fearzen.github.io/resume/)
+- 👨‍💻 You can also check out my portfolio at [My Portfolio](porto-december-2025.vercel.app) 
 
 - 📫 How to reach me: **fernandaazra@gmail.com**
 
@@ -58,3 +58,4 @@
 </p>
 
 <h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill</h3>
+
