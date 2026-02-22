@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact: **I am an Ultraman**
 
-- 🌱 Currently learning: **Flutter** and **React Native** to build cross-platform apps.
+- 🌱 Currently learning: **Flutter** and **Next.js** to build cross-platform apps.
 
-- 🎯 Goal for 2024: **Contribute to at least 5 open-source projects and build an app that impacts daily life.**
+- 🎯 Goal for 2026: **Contribute to at least 5 open-source projects and build an app that impacts daily life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,5 +58,6 @@
 </p>
 
 <h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill</h3>
+
 
 
