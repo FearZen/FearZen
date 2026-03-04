@@ -67,8 +67,12 @@ Learning Flutter for cross-platform UI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearZen&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearZen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FearZen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,3 +80,4 @@ Learning Flutter for cross-platform UI
 <p align="center">
   <i>Design with intention. Build with precision.</i>
 </p>
+
