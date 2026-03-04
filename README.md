@@ -1,62 +1,78 @@
-<h1 align="center">Hi 👋, I'm Fernanda Wawang Azraqi</h1>
-<h3 align="center">Crafting Interfaces • Building Experiences • Chasing Big Dreams 🚀</h3>
+<h1 align="center">Fernanda Wawang Azraqi</h1>
+<h3 align="center">Frontend Engineer • UI/UX Enthusiast • Interface Craftsman</h3>
 
 <p align="center">
-  Frontend Developer & UI/UX Enthusiast who loves turning ideas into interactive digital experiences.
+  I design and build modern, high-performance web experiences with a strong focus on usability, motion, and product thinking.
 </p>
 
 <p align="center">
   <a href="https://porto-ferza.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:fernandaazra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fernanda-wawang-azraqi-383980225/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎨 About Me
 
-- 🎨 Focused on **Frontend Development & UI/UX Design**
-- 🌱 Currently exploring **Flutter & Next.js**
-- 💡 Interested in building impactful, scalable, and human-centered apps
-- 🎯 2026 Goal: Contribute to open-source & ship a product that solves real problems
-- ⚡ Fun fact: Yes, I am an Ultraman (mentally when debugging at 2AM)
+I'm a Computer Science graduate who found passion in crafting digital interfaces that feel alive.
+
+My main focus is frontend development using **Next.js**, building fluid UI with **Framer Motion**, and designing thoughtful user experiences in **Figma**.
+
+I enjoy transforming complex ideas into clean, intuitive, and scalable interfaces — blending logic with creativity.
 
 ---
 
-## 🛠 Tech Stack
+## 💡 What I Care About
+
+• Clean and maintainable frontend architecture  
+• Performance-first web development  
+• Smooth micro-interactions & motion design  
+• UI clarity and usability  
+• Design-to-code consistency  
+
+---
+
+## 🛠 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,bootstrap,flutter,react,nextjs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,figma,framer,git" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## ⚙ Supporting Technologies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql,supabase" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+Building SaaS interfaces  
+Improving design systems  
+Exploring advanced frontend patterns  
+Learning Flutter for cross-platform UI  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearZen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FearZen&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ✨ Current Mindset
-
-> Build. Break. Fix. Improve. Repeat.  
-> Growth is a process, not a shortcut.
-
 ---
 
 <p align="center">
-  <i>“Ordinary background. Extraordinary ambition.”</i>
+  <i>Design with intention. Build with precision.</i>
 </p>
