@@ -1,63 +1,62 @@
 <h1 align="center">Hi 👋, I'm Fernanda Wawang Azraqi</h1>
-<h3 align="center">Just an Ordinary Person with Extraordinary Dreams</h3>
+<h3 align="center">Crafting Interfaces • Building Experiences • Chasing Big Dreams 🚀</h3>
 
-- 👨‍💻 You can also check out my portfolio at [My Portfolio](https://porto-ferza.vercel.app/) 
+<p align="center">
+  Frontend Developer & UI/UX Enthusiast who loves turning ideas into interactive digital experiences.
+</p>
 
-- 📫 How to reach me: **fernandaazra@gmail.com**
-
-- ⚡ Fun fact: **I am an Ultraman**
-
-- 🌱 Currently learning: **Flutter** and **Next.js** to build cross-platform apps.
-
-- 🎯 Goal for 2026: **Contribute to at least 5 open-source projects and build an app that impacts daily life.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernanda-wawang-azraqi-383980225/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://porto-ferza.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:fernandaazra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernanda-wawang-azraqi-383980225/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  </a>
+---
+
+## 👨‍💻 About Me
+
+- 🎨 Focused on **Frontend Development & UI/UX Design**
+- 🌱 Currently exploring **Flutter & Next.js**
+- 💡 Interested in building impactful, scalable, and human-centered apps
+- 🎯 2026 Goal: Contribute to open-source & ship a product that solves real problems
+- ⚡ Fun fact: Yes, I am an Ultraman (mentally when debugging at 2AM)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,bootstrap,flutter,react,nextjs&perline=5" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FearZen&show_icons=true&locale=en&layout=compact" alt="FearZen" />
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearZen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FearZen&show_icons=true&locale=en" alt="FearZen" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FearZen&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="center">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston S. Churchill</h3>
+---
 
+## ✨ Current Mindset
 
+> Build. Break. Fix. Improve. Repeat.  
+> Growth is a process, not a shortcut.
 
+---
+
+<p align="center">
+  <i>“Ordinary background. Extraordinary ambition.”</i>
+</p>
